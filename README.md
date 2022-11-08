@@ -159,6 +159,21 @@ Downsides:
 
 - not found
 
+### Four Useful Built-In JavaScript Web APIs
+
+Source: openreplay
+
+[https://blog.openreplay.com/four-useful-built-in-javascript-web-apis/](https://blog.openreplay.com/four-useful-built-in-javascript-web-apis/)
+
+
+Upsides:
+
+- very informative
+- source code and examples
+
+Downsides:
+
+- not found
 
 
 
