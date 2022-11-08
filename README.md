@@ -81,6 +81,22 @@ Vuestic is an Vue3 components library with following key features:
 - 60 responsive components, 
 - easy customization, accessibility.
 
+### VS code October release 1.73
+
+Source: code.visualstudio.com
+
+[https://code.visualstudio.com/updates/v1_73](https://code.visualstudio.com/updates/v1_73)
+
+key highlights include:
+
+- Search include/exclude folders - Quickly set folders to include/exclude in the tree view.
+- Command Center mode shortcuts - Displays commonly used modes before recent files list.
+- Merge editor improvements - Access Combination option to auto merge conflicts.
+- Markdown automatic link updates - File and image links updated on rename/move.
+- More audio cues - Task completed or failed, Terminal Quick Fix available.
+- vscode.dev protected branch workflow - Create new branch when committing to protected branch.
+- New Python extensions - New standalone extensions for isort, Pylint, and Flake8.
+- Dev Container Templates - Create new Dev Containers based on existing templates.
 
 ## Interesting articles
 
