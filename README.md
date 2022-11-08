@@ -31,6 +31,16 @@ Website: [https://meetups.evrone.ru/](https://meetups.evrone.ru/frontend-meetup-
 
 ## News
 
+### Node.js 19 release announcement
+
+Source: nodejs
+
+[https://nodejs.org/en/blog/announcements/v19-release-announce/](https://nodejs.org/en/blog/announcements/v19-release-announce/)
+
+in Russian: [https://habr.com/ru/news/t/694266/](https://habr.com/ru/news/t/694266/)
+
+Node.js 19 will replace Node.js 18 as our ‘Current’ release line when Node.js 18 enters long-term support (LTS) later this month. As per the release schedule, Node.js 19 will be the ‘Current' release for the next 6 months, until April 2023.
+
 ### TypeScript 4.9 RC announcement
 
 Source: devblogs.microsoft.com
